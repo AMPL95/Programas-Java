@@ -17,9 +17,9 @@ public class DarVueltaTexto {
 			vuelta[i] = sep[sep.length - 1 - i];
 		}
 		
-		String hecho2= String.join(" ", vuelta); //Unión del array vuelta separado por " " en un unico String
+		String hecho2= String.join(" ", vuelta); //UniÃ³n del array "vuelta" separado por " " en un unico String
 		
-		System.out.println(hecho2); //Imprimimos por pantallada
+		System.out.println(hecho2); //Imprimimos por pantalla
 		
 
 	}
